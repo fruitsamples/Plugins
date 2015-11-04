@@ -1,0 +1,4 @@
+#ifdef __OBJC__
+	#import <Quartz/Quartz.h>
+	#import <InstantMessage/IMService.h>
+#endif

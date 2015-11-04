@@ -1,0 +1,20 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {selectPlugIn = id; }; 
+            CLASS = FreeFrameHostViewController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {plugInMenu = NSPopUpButton; }; 
+            SUPERCLASS = QCPlugInViewController; 
+        }, 
+        {CLASS = QCPlugIn; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            CLASS = QCPlugInViewController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {view = id; }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

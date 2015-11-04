@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CodecTypes</key>
+	<array>
+		<string>Animation</string>
+		<string>JPEG</string>
+		<string>DVCPAL</string>
+		<string>DVCPro50NTSC</string>
+		<string>DVCPro50PAL</string>
+		<string>DVCPro100NTSC</string>
+		<string>DVCPro100PAL</string>
+		<string>DVCPROHD720p</string>
+		<string>DVCPROHD1080i60</string>
+		<string>DVCPROHD1080i50</string>
+		<string>PNG</string>
+		<string>TIFF</string>
+		<string>MPEG4</string>
+		<string>JPEG2000</string>
+		<string>H264</string>
+	</array>
+	<key>CodecKeys</key>
+	<array>
+		<string>rle </string>
+		<string>jpeg</string>
+		<string>dvcp</string>
+		<string>dvpp</string>
+		<string>dv5p</string>
+		<string>dv1n</string>
+		<string>dv1p</string>
+		<string>dvhp</string>
+		<string>dvh6</string>
+		<string>dvh5</string>
+		<string>png </string>
+		<string>tiff</string>
+		<string>mp4v</string>
+		<string>mjp2</string>
+		<string>H264</string>
+	</array>	
+</dict>
+</plist>
